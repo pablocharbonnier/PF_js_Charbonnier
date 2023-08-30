@@ -1,0 +1,69 @@
+[
+
+     
+       {
+        "id": "Smartwatch HW68",
+        "titulo": "Smartwatch HW68",
+        "imagen": "../img/Smartwatch/Smartwatch_HW68.jpg",
+        "precio": 3990,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    },
+    {
+        "id": "Smartwatch W27",
+        "titulo": "Smartwatch W27",
+        "imagen": "../img/Smartwatch/Smartwatch_W27.jpg",
+        "precio": 2790,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    },
+    {
+        "id": "Smartwatch W26",
+        "titulo": "Smartwatch W26",
+        "imagen": "../img/Smartwatch/SmartWatch-W26-Plus.jpeg",
+        "precio": 1790,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    },
+    {
+        "id": "Smartwatch D20",
+        "titulo": "Smartwatch D20",
+        "imagen": "../img/Smartwatch/Smartwatch_D20.jpg",
+        "precio": 690,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    },
+    {
+        "id": "Smartwatch Banda",
+        "titulo": "Smartwatch Banda",
+        "imagen": "../img/Smartwatch/Smartwatch-Banda.jpg",
+        "precio": 590,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    },
+    {
+        "id": "Smartwatch + Auriculares",
+        "titulo": "Smartwatch + Auriculares",
+        "imagen": "../img/Smartwatch/Smartwatch + auriculares.jpg",
+        "precio": 1290,
+        "categoria": {
+            "nombre": "Smartwatch",
+            "id": "Smartwatch"
+        }
+    }
+
+    
+  
+
+
+]
